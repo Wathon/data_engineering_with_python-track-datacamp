@@ -96,8 +96,13 @@ Our data engineer, Vivian, is working on building new pipelines to generate a ne
 On the right, you will find some steps. Can you order the steps correctly to help her build the pipeline generating a *Weekly Playlist* for each user? Let's start with one user, and build a pipeline to generate a *Weekly Playlist* for Julian, our data scientist.
 
 ##### Ans:
-1. Load the recommended songs into a new table. That's Julian's **Weekly Playlist!**
-2. Load only the 10 top songs these users listened to the most over the past week into a table called "Similar profiles"
-3. Extract only songs these other users listen to that are of the same genre as the ones in Julian's listening sessions. These are our recommendations.
-4. Extract the songs Julian listened to the most over the past month
-5. Find other users who listened to these same songs a lot as well
+1. Extract the songs Julian listened to the most over the past month
+2. Find other users who listened to these same songs a lot as well
+3. Load only the 10 top songs these users listened to the most over the past week into a table called "Similar profiles"
+4. Extract only songs these other users listen to that are of the same genre as the ones in Julian's listening sessions. These are our recommendations.
+5. Load the recommended songs into a new table. That's Julian's **Weekly Playlist!**
+
+##### Success Message!
+> Excellent job! And just like that, you reached the end of Chapter 1. Congratulations! Jump into Chapter 2 to learn more about the different ways to data and optimize this storage, before diving into data processing in Chapter 3!
+
+>By the way, you may have noticed the exercise titles are actually song titles. That remains true throughout the course. So here's the deal: if you make it to the end of the course, I will tell you where to find the playlist!

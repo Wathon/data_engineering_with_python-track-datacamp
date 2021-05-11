@@ -1,5 +1,4 @@
 # Data Engineering for Everyone
----
 
 ## Moving and processing 
 Data engineers make life easy for data scientists by preparing raw data for analysis using different processing techniques at different steps. These steps need to be combined to create pipelines, which is when automation comes into play. Finally, data engineers use parallel and cloud computing to keep pipelines flowing smoothly.

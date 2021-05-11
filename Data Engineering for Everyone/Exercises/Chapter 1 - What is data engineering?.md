@@ -1,7 +1,9 @@
 # Data Engineering for Everyone
 
 ## What is data engineering?
-### Go with the flow
+In this chapter, you’ll learn what data engineering is and why demand for them is increasing. You’ll then discover where data engineering sits in relation to the data science lifecycle, how data engineers differ from data scientists, and have an introduction to your first complete data pipeline.
+
+### Data engineering and big data - Go with the flow
 To understand what data engineers do, why they are necessary and the impact they have, you need to know how data flows through an organization.
 
 Can you order the four steps of the data science workflow chronologically?
@@ -10,8 +12,9 @@ Can you order the four steps of the data science workflow chronologically?
 2. Data preparation
 3. Exploration and visualization
 4. Experimentation and prediction
+---
 
-### Not responsible
+### Data engineering and big data - Not responsible
 You recently joined the data science team as a manager for a music streaming company named Spotflix. It's a music platform that lets users stream songs, create playlists, follow artists, watch music videos and even look up lyrics!
 
 One of your colleagues just walked to your desk. They just got hired, but they already know you're on the data team - after training with DataCamp, you've made a name for yourself pretty quick! They have a bunch of data tasks they need completed, and they want to make sure they ask the right person. You tell them you can help them identify what they should request from data engineers, and what they should not.
@@ -27,8 +30,9 @@ Can you deliver on this promise?
 * Building a visualization to understand listening patterns by city.
 * Running an experiment to identify the optimal search bar positioning in the app.
 * Based on their listening behavior, predict which songs customers are likely to enjoy.
+---
 
-### Big time
+### Data engineering and big data - Big time
 You saw how the advent of big data increased the demand for data engineers. As more data gets generated, at a higher rate, with a growing variety of formats, the need for people able to manage this data is soaring.
 
 Which of the statements on the right are true, and which are false?
@@ -41,8 +45,9 @@ Which of the statements on the right are true, and which are false?
 * Veracity refers to how frequently the data is generated.
 * Volume has to do with how trustworthy the data is.
 * Velocity refers to how big the data is.
+---
 
-### Tell me the truth
+### Data engineers vs. data scientist - Tell me the truth
 In 2012, IBM declared that 90% of the data in the world had been created in the past 2 years. That same year, the amount of digital data in the world first exceeded 1 zetabyte (1 billion terabytes). In 2020, we're expected to reach 44 zetabytes. This big data era led to the advent of two new roles: data engineers and data scientists. You just studied the differences between these two roles.
 
 Let's have a quick sanity check: which of the following options is true?
@@ -52,8 +57,9 @@ Let's have a quick sanity check: which of the following options is true?
 - [ ] Data scientists build pipelines.
 - [ ] Data engineers need strong statistical expertise.
 - [x] Data engineers enable data scientists.
+---
 
-### Who is it
+### Data engineers vs. data scientist - Who is it
 In the first lesson, you classified some data related tasks between data engineer tasks and not data engineer tasks. Let's raise the bar and see if you can assign more specific tasks to data engineers or data scientists.
 
 ##### Ans:
@@ -66,8 +72,9 @@ In the first lesson, you classified some data related tasks between data enginee
 * Find out in which countries certain artists are popular to give them insights on where to tour.
 * Identify which customers are likely to end their Spotiflix subscriptions, so marketing can target them and encourage them to renew.
 * Use Python to run an analysis and understand whether users prefer having the search bar on the top left or the top right of the Spotiflix desktop app.
+---
 
-### It's not true
+### The data pipeline - It's not true
 The main objective, when setting up data pipelines, is to improve the efficiency with which data flows, from its ingestion to the final users.
 
 Most of the options below are true, but one is false. Which one is it?
@@ -77,8 +84,9 @@ Most of the options below are true, but one is false. Which one is it?
 - [ ] Data pipelines automate data extraction.
 - [x] Data pipelines necessarily include a transformation step.
 - [ ] ETL stands for Extract, Transform, Load.
+---
 
-### Pipeline
+### The data pipeline - Pipeline
 **Once you've successfully completed this exercise, make sure to read the success message! 🎶😉**
 
 You've just seen some examples of pipelines used at Spotflix. Let's have you build one!

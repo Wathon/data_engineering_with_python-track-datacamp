@@ -1,6 +1,8 @@
 # Data Engineering for Everyone
----
+
 ## Storing data
+It’s time to talk about data storage—one of the main responsibilities for a data engineer. In this chapter, you’ll learn how data engineers manage different data structures, work in SQL—the programming language of choice for querying and storing data, and implement appropriate data storage solutions with data lakes and data warehouses.
+
 ### Data structures - Structures
 In the video, you learned about the three different types of data structure. The less structured the data, the more flexibility there is in how it's stored.
 

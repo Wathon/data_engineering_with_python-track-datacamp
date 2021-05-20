@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: tap-marketing-api
+Version: 0.0.1
+Summary: Singer tap for pulling all data from my company's internal marketing API
+Home-page: https://singer.io
+Author: DataCamp Student
+Author-email: UNKNOWN
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3 :: Only
+

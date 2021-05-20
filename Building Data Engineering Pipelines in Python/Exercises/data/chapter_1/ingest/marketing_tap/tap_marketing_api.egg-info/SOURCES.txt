@@ -1,0 +1,8 @@
+setup.py
+tap_marketing_api.py
+tap_marketing_api.egg-info/PKG-INFO
+tap_marketing_api.egg-info/SOURCES.txt
+tap_marketing_api.egg-info/dependency_links.txt
+tap_marketing_api.egg-info/entry_points.txt
+tap_marketing_api.egg-info/requires.txt
+tap_marketing_api.egg-info/top_level.txt

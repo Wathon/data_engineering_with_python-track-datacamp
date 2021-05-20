@@ -1,0 +1,4 @@
+
+          [console_scripts]
+          tap-marketing-api=tap_marketing_api:main
+      
